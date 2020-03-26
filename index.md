@@ -18,7 +18,7 @@ HCMC University of Food Industry -  Software technology
 
 ### Language:
 - Vietnamese: Native language. 
-- English: Professional working  proficiency
+- English: Professional working  proficiency.
 
 ### Hobbies: 
 
@@ -27,8 +27,13 @@ HCMC University of Food Industry -  Software technology
 - Work experience in many types of projects: Web, Mobile, API, End to End test. 
 - Design test strategy, test plan, test-suite, test-case and product document. 
 - Experience working in Agile/Scrum model.
-- Ability to apply the automation test in projects: Website, Android app using POM model in Selenium and Appium with programming language is Java; testNG framework, Maven build tool and control source-code by GIT.
-- Experience using automation tools such as : UFT(vb.net), Jmeter, postman
+- Ability to apply the automation test in projects: Website, Android/Mobile app using 
+    * Java: POM model in Selenium and Appium; testNG framework, Maven build tool
+    * Js: Using detox framework to automation mobile app Android/IOs
+    * VB.net: Using UFT to automation Web sites
+- Experience using other automation tools such as : Jmeter, postman.
+- Experience using testcase/bug control: Jira, Redmine, TestLink.
+- Experience using source control: GIT, Bitbucket.
 - Flexible at work and resolve issues; willing to accept new challenges.
-
+- Certificate: ISTQB Foundation Level
 ### ![exp icon](https://raw.githubusercontent.com/trung1987/trung1987.github.io/master/assets/img/pngwave.png) 
