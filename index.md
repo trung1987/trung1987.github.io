@@ -11,7 +11,7 @@ description: this is TrungT profile page
 #### ![skype icon](https://raw.githubusercontent.com/trung1987/trung1987.github.io/master/assets/img/skype.png) to_trung87
 
 ### Education: 
-Ho Chi Minh City University of Natural  Sciences -  Software technology
+HCMC University of Food Industry -  Software technology
 
 ### Work history: 
 
@@ -28,6 +28,7 @@ Ho Chi Minh City University of Natural  Sciences -  Software technology
 - Design test strategy, test plan, test-suite, test-case and product document. 
 - Experience working in Agile/Scrum model.
 - Ability to apply the automation test in projects: Website, Android app using POM model in Selenium and Appium with programming language is Java; testNG framework, Maven build tool and control source-code by GIT.
+- Experience using automation tools such as : UFT(vb.net), Jmeter, postman
 - Flexible at work and resolve issues; willing to accept new challenges.
 
 ### ![exp icon](https://raw.githubusercontent.com/trung1987/trung1987.github.io/master/assets/img/pngwave.png) 
