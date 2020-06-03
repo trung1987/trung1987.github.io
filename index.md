@@ -3,11 +3,15 @@ layout: page
 title: To Hieu Trung
 tagline: Resume
 description: this is TrungT profile page
+
 ---
+
 ### ![about icon](https://raw.githubusercontent.com/trung1987/trung1987.github.io/master/assets/img/about.png) About:
 - I'm an automation tester. 
-- Outside of work, I am interested in training and learning new technology. 
+- Outside of work, I am interested in training and learning new technology.
+ 
 ---
+
 ###  ![contact icon](https://raw.githubusercontent.com/trung1987/trung1987.github.io/master/assets/img/contact.png) Contact:
 #### ![cellphone icon](https://raw.githubusercontent.com/trung1987/trung1987.github.io/master/assets/img/cellphone.png) +84933016974
 #### ![email icon](https://raw.githubusercontent.com/trung1987/trung1987.github.io/master/assets/img/email.png) totrung@gmail.com
@@ -16,9 +20,12 @@ description: this is TrungT profile page
 #### ![git icon](https://raw.githubusercontent.com/trung1987/trung1987.github.io/master/assets/img/githublogo.png) <a href="https://github.com/trung1987"> https://github.com/trung1987 </a>
 
 ---
+
 ### ![education icon](https://github.com/trung1987/trung1987.github.io/blob/master/assets/img/education.png) Education: 
 - HCMC University of Food Industry -  Software technology
+
 ---
+
 ### ![skill icon](https://github.com/trung1987/trung1987.github.io/blob/master/assets/img/skill_icon.png?raw=true) Summary and Abilities:
 - Work experience in many types of projects: Web, Mobile, API, End to End test. 
 - Design test strategy, test plan, test-suite, test-case and product document. 
@@ -33,6 +40,7 @@ description: this is TrungT profile page
 - Flexible at work and resolve issues; willing to accept new challenges.
 - Certificate: ISTQB Foundation Level
 ---
+
 ### ![workhistory icon](https://raw.githubusercontent.com/trung1987/trung1987.github.io/master/assets/img/workhistory.png) Details working history: 
 - Game Tester : 
     + Working as game tester in GameLoft company.
@@ -48,9 +56,12 @@ description: this is TrungT profile page
     + Build up automation system to support the regressions testing for ecommerce web sites, mobile apps, SAP system.
 
 ---
-### ![languagé icon](https://raw.githubusercontent.com/trung1987/trung1987.github.io/master/assets/img/language.png) Language:
+
+### ![languages icon](https://raw.githubusercontent.com/trung1987/trung1987.github.io/master/assets/img/language.png) Language:
 - Vietnamese: Native language.  
 - English: Professional working  proficiency.
+
 ---
+
 ### ![hobbies icon](https://raw.githubusercontent.com/trung1987/trung1987.github.io/master/assets/img/hobbies.png) Hobbies: 
 - Drink coffee, read comic.
