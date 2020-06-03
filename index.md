@@ -12,7 +12,8 @@ description: this is TrungT profile page
  
 ---
 
-###  ![contact icon](https://raw.githubusercontent.com/trung1987/trung1987.github.io/master/assets/img/contact.png) Contact:
+### ![contact icon](https://raw.githubusercontent.com/trung1987/trung1987.github.io/master/assets/img/contact.png) Contact:
+
 #### ![cellphone icon](https://raw.githubusercontent.com/trung1987/trung1987.github.io/master/assets/img/cellphone.png) +84933016974
 #### ![email icon](https://raw.githubusercontent.com/trung1987/trung1987.github.io/master/assets/img/email.png) totrung@gmail.com
 #### ![place icon](https://raw.githubusercontent.com/trung1987/trung1987.github.io/master/assets/img/place.png) district  Tan Binh, Ho Chi Minh city,  Viet Nam
@@ -21,7 +22,7 @@ description: this is TrungT profile page
 
 ---
 
-### ![education icon](https://github.com/trung1987/trung1987.github.io/blob/master/assets/img/education.png) Education: 
+### ![education icon](https://raw.githubusercontent.com/trung1987/trung1987.github.io/master/assets/img/education.png) Education: 
 - HCMC University of Food Industry -  Software technology
 
 ---
@@ -39,6 +40,7 @@ description: this is TrungT profile page
 - Experience using source control: GIT, Bitbucket.
 - Flexible at work and resolve issues; willing to accept new challenges.
 - Certificate: ISTQB Foundation Level
+
 ---
 
 ### ![workhistory icon](https://raw.githubusercontent.com/trung1987/trung1987.github.io/master/assets/img/workhistory.png) Details working history: 
